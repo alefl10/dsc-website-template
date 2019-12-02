@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"email\" on type \"TeamsYamlSocial\".","locations":[{"line":16,"column":11}]}]}

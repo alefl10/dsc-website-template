@@ -1,17 +1,17 @@
-- name: John Doe
-  rule: Mentor
+- name: Simone Staffa
+  rule: Lead
   img: ./avatar.png
   descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+    - Android and Backend developer
+    - Startup enthusiast
+    - Community lead
   social:
     twitter: https://www.example.com
     github: https://www.example.com
     linkedin: https://www.example.com
 
-- name: John Doe 2
-  rule: Mentor
+- name: Alejandro Ferrero
+  rule: Core Team Member
   img: ./avatar.png
   descs:
     - Mobile and Web developer
@@ -21,7 +21,18 @@
     twitter: https://www.example.com
     github: https://www.example.com
 
-- name: John Doe 3
+- name: Federico Lesca
+  rule: Mentor
+  img: ./avatar.png
+  descs:
+    - Mobile and Web developer
+    - Open source enthusiast
+    - Community mentor
+  social:
+    github: https://www.example.com
+    linkedin: https://www.example.com
+
+- name: Cristian
   rule: Mentor
   img: ./avatar.png
   descs:

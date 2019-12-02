@@ -27,7 +27,7 @@ export default ({ register }) => (
               How frequently do events and workshops occur?
             </h5>
             <p>
-              We hold workshops and showcases at TechHub EKSU & we would
+              We hold workshops and showcases at PoliMi & we would
               recommend you to join our community by becoming a{' '}
               <a href={register} target="_blank" rel="noopener noreferrer">
                 member
@@ -58,13 +58,13 @@ export default ({ register }) => (
             </h5>
             <p>
               If you have any questions or comments, please don't hesitate to
-              contact us by clicking the button below. We would be happy to stay
-              engaged via email even after the event
+              contact us. You can find an email at the end of the page. We would be happy to stay
+              engaged via email even after the event.
             </p>
           </Card>
         </Col>
       </Row>
-      {/* <div className="mt-40 text-center">
+      { /*<div className="mt-40 text-center">
         <a href="" className="hero-button">
           Send us an email
         </a>

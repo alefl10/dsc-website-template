@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import logo from '../images/dsc-logo-large.png'
+import logo from '../images/dsc-logo-polimi.png'
 import Container from 'react-bootstrap/Container'
 import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'

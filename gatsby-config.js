@@ -1,15 +1,16 @@
 module.exports = {
+  pathPrefix: "/dsc-polimi",
   siteMetadata: {
     title: `Developer Student Club`,
     description: `Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
-    university: `UniversityName`,
+    university: `Politecnico di Milano`,
     lang: `en`,
-    register: `https://www.google.it/intl/it/forms/about/`,
-    mail: `example@example.com`,
+    register: `https://t.me/joinchat/Dgxqo0qQDdKh433Egf0ESQ`,
+    mail: `simonestaffa96@gmail.com`,
     social: {
       youtube: `https://youtube.com`,
       github: `https://github.com`,
-      twitter: `https://twitter.com`,
+      twitter: `https://twitter.com`
     }
   },
   plugins: [

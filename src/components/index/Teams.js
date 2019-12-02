@@ -25,6 +25,7 @@ export default _ => {
             social {
               github
               linkedin
+              email
             }
           }
         }

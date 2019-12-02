@@ -8,7 +8,11 @@ import {
   faTwitter,
   faGithub,
   faYoutube,
+  faTelegram
 } from '@fortawesome/free-brands-svg-icons'
+import {
+  faAt
+} from '@fortawesome/free-solid-svg-icons'
 
 export default ({ social, mail }) => (
   <footer className="section-spacer footer-section">
@@ -29,6 +33,8 @@ export default ({ social, mail }) => (
                 twitter: faTwitter,
                 github: faGithub,
                 youtube: faYoutube,
+                telegram: faTelegram,
+                email: faAt
               })
                 .filter(([name]) => name in social)
                 .map(([name, icon]) => (

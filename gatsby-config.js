@@ -12,7 +12,7 @@ module.exports = {
       github: `https://github.com`,
       twitter: `https://twitter.com`,
       telegram: `https://t.me/joinchat/Dgxqo0qQDdKh433Egf0ESQ`,
-      email: `simonestaffa96@gmail.com`,
+      email: `mailto:simonestaffa96@gmail.com`,
     }
   },
   plugins: [

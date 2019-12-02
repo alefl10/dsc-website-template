@@ -1,44 +1,42 @@
 - name: Simone Staffa
-  rule: Lead
-  img: ./avatar.png
+  rule: Mentor
+  img: ./simonestaffa.png
   descs:
     - Android and Backend developer
-    - Startup enthusiast
-    - Community lead
+    - MSc Computer Science & Engineering
+    - Community Lead
   social:
-    twitter: https://www.example.com
     github: https://www.example.com
     linkedin: https://www.example.com
 
 - name: Alejandro Ferrero
-  rule: Core Team Member
-  img: ./avatar.png
+  rule: Mentor
+  img: ./alejandroferrero.png
   descs:
     - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+    - MSc Computer Science & Engineering
+    - Core Team Member
   social:
     twitter: https://www.example.com
     github: https://www.example.com
 
 - name: Federico Lesca
   rule: Mentor
-  img: ./avatar.png
+  img: ./federicolesca.png
   descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+    - Digital Innovator
+    - MSc Management Engineering
+    - Core Team Member
   social:
-    github: https://www.example.com
     linkedin: https://www.example.com
 
-- name: Cristian
+- name: Cristian Giannetti
   rule: Mentor
-  img: ./avatar.png
+  img: ./cristiangiannetti.png
   descs:
-    - Mobile and Web developer
-    - Open source enthusiast
-    - Community mentor
+    - Web developer
+    - MSc Computer Science & Engineering
+    - Core Team Member
   social:
-    github: https://www.example.com
-    linkedin: https://www.example.com
+    github: https://github.com/cristiangiann
+    linkedin: https://www.linkedin.com/in/cristiangiannetti/

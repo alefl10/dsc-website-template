@@ -39,7 +39,7 @@ export default () => (
           <Card body>
             <ul>
               <li>
-                howcase their prototypes and solutions to their local community
+                Showcase their prototypes and solutions to their local community
                 and industry leaders.
               </li>
             </ul>

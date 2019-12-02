@@ -23,7 +23,6 @@ export default _ => {
               }
             }
             social {
-              twitter
               github
               linkedin
             }

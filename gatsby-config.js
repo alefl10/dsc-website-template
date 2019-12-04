@@ -6,7 +6,7 @@ module.exports = {
     university: `Politecnico di Milano`,
     lang: `en`,
     register: `https://t.me/joinchat/Dgxqo0qQDdKh433Egf0ESQ`,
-    mail: `simonestaffa96@gmail.com`,
+    mail: `dsc-polimi@gmail.com`,
     social: {
       youtube: `https://youtube.com`,
       github: `https://github.com`,

@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 import Card from 'react-bootstrap/Card'
 
-// import techwork from '../../images/technologies/techwork.png'
+import infoSession from '../../images/info-session.png'
 
 export default () => (
   <section
@@ -25,11 +25,6 @@ export default () => (
               Upcoming Events
             </a>
           </li>
-          <li className="nav-item">
-            <a className="nav-link" href="#past">
-              Past Events
-            </a>
-          </li>
         </ul>
       </div>
       <div className="tab-content">
@@ -39,11 +34,32 @@ export default () => (
           role="tabpanel"
           aria-labelledby="upcoming"
         >
-          <div className="row">
-            <div className="message-wrapper col-12">
-              <h2 className="message-text">Loading...</h2>
+          <section id="hi" className="section-spacer bg-very__gray">
+            <div className="container">
+              <div className="row align-items-center">
+                <div className="col-sm-4">
+                  <div className="feature-list-image">
+                    <img
+                      className="card-img-top"
+                      src={infoSession}
+                      alt="Tech Workshop"
+                    />
+                  </div>
+                </div>
+                <div className="col-sm-5 ml-auto">
+                  <div className="feature-list-wrapper">
+                    <div className="content-header">
+                      <h2 className="content-title">Info Session</h2>
+                      <hr />
+                      <h6>DATE : 12th December 2019 - 6:00 PM</h6>
+                      <h6>VENUE : PoliMi Room #</h6>
+                      <p>Why DSC?</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
-          </div>
+          </section>
         </div>
         <div
           className="tab-pane"
@@ -60,16 +76,9 @@ export default () => (
                       className="card-img-top"
                       src={null}
                       alt="Tech Workshop"
+                      width="100"
+                      height="100"
                     />
-                    <iframe
-                      data-urllink="https://docs.google.com/presentation/d/e/2PACX-1vSubYcbqWaNFgVUDQ14VYLf_4RFiaVeFl-Tz6ryS_YAuYmP9xhdAUrV0_V5GpeHHenACAIwl8zwTZ3z/embed?start=false&loop=true&delayms=3000"
-                      frameBorder="0"
-                      width="480"
-                      height="299"
-                      allowFullScreen
-                      mozallowfullscreen="true"
-                      webkitallowfullscreen="true"
-                    ></iframe>
                   </div>
                 </div>
                 <div className="col-sm-5 ml-auto">
@@ -111,14 +120,6 @@ export default () => (
                 </div>
                 <div className="col-sm-6">
                   <div className="feature-list-image">
-                    <iframe
-                      width="500"
-                      height="274"
-                      data-urllink="https://www.youtube.com/embed/AAin71VkbzQ"
-                      frameBorder="0"
-                      allow="autoplay; encrypted-media"
-                      allowFullScreen
-                    ></iframe>
                   </div>
                 </div>
               </div>

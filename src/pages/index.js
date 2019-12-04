@@ -6,6 +6,7 @@ import Opportunities from '../components/index/Opportunities'
 import Technologies from '../components/index/Technologies'
 import Teams from '../components/index/Teams'
 import Faqs from '../components/index/Faqs'
+import Workshops from '../components/index/Workshops'
 
 export const teamsQuery = graphql`
   {
@@ -34,6 +35,7 @@ export default ({
 }) => (
   <Layout>
     <Header {...{ university, register }} />
+    <Workshops/>
     <Overview />
     <Opportunities />
     <Technologies />

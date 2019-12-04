@@ -50,10 +50,11 @@ export default () => (
                   <div className="feature-list-wrapper">
                     <div className="content-header">
                       <h2 className="content-title">Info Session</h2>
+                      <a href="https://docs.google.com/forms/d/1l4hnnVPG13ZwxFdUXS9Ffn7OBlFt_MbYTB26rPh0iCE/edit">Register here</a>
                       <hr />
                       <h6>DATE : 12th December 2019 - 6:00 PM</h6>
                       <h6>VENUE : #To be defined</h6>
-                      <p>Why DSC?</p>
+                      <p>Discover the opportunities that a Developer Student Club offers you.</p>
                     </div>
                   </div>
                 </div>

@@ -52,7 +52,7 @@ export default () => (
                       <h2 className="content-title">Info Session</h2>
                       <hr />
                       <h6>DATE : 12th December 2019 - 6:00 PM</h6>
-                      <h6>VENUE : PoliMi Room #</h6>
+                      <h6>VENUE : #To be defined</h6>
                       <p>Why DSC?</p>
                     </div>
                   </div>

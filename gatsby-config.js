@@ -6,13 +6,13 @@ module.exports = {
     university: `Politecnico di Milano`,
     lang: `en`,
     register: `https://t.me/joinchat/Dgxqo0qQDdKh433Egf0ESQ`,
-    mail: `dsc-polimi@gmail.com`,
+    mail: `dsc.polimi@gmail.com`,
     social: {
       youtube: `https://youtube.com`,
       github: `https://github.com`,
       twitter: `https://twitter.com`,
       telegram: `https://t.me/joinchat/Dgxqo0qQDdKh433Egf0ESQ`,
-      email: `mailto:dsc-polimi@gmail.com`,
+      email: `mailto:dsc.polimi@gmail.com`,
     }
   },
   plugins: [

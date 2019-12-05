@@ -53,7 +53,7 @@ export default () => (
                       <a href="https://docs.google.com/forms/d/1l4hnnVPG13ZwxFdUXS9Ffn7OBlFt_MbYTB26rPh0iCE/edit" target="_blank">Register here</a>
                       <hr />
                       <h6>DATE : 12th December 2019 - 6:00 PM</h6>
-                      <h6>VENUE : #To be defined</h6>
+                      <h6>VENUE : Milano Città Studi - Piazza Leonardo da Vinci 32 - Building 4 - Ground: Floor - Room 4.0.1</h6>
                       <p>Discover the opportunities that a Developer Student Club offers you.</p>
                     </div>
                   </div>

@@ -50,7 +50,7 @@ export default () => (
                   <div className="feature-list-wrapper">
                     <div className="content-header">
                       <h2 className="content-title">Info Session</h2>
-                      <a href="https://docs.google.com/forms/d/1l4hnnVPG13ZwxFdUXS9Ffn7OBlFt_MbYTB26rPh0iCE/edit" target="_blank">Register here</a>
+                      <a href="https://docs.google.com/presentation/d/1ZdVNpPih9rhqq28av2f1-dWFES9YU1DrvrqJitbHVec/edit" target="_blank">Slides</a>
                       <hr />
                       <h6>DATE : 12th December 2019 - 6:00 PM</h6>
                       <h6>VENUE : Milano Città Studi - Piazza Leonardo da Vinci 32 - Building 4 - Ground: Floor - Room 4.0.1</h6>

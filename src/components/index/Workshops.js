@@ -51,6 +51,8 @@ export default () => (
                     <div className="content-header">
                       <h2 className="content-title">Info Session</h2>
                       <a href="https://docs.google.com/presentation/d/1ZdVNpPih9rhqq28av2f1-dWFES9YU1DrvrqJitbHVec/edit" target="_blank">Slides</a>
+                      &nbsp;- <a href="https://drive.google.com/open?id=1QhYpKn7zjDnbG-oJKG-kd8r1BiDg4k_s" target="_blank">Photos</a>
+                      &nbsp;- <a href="https://drive.google.com/file/d/10SfPXDri9J2aHsM7LkcZVk0J9DgN5Nuv/view?usp=sharing" target="_blank">Video Recording</a>
                       <hr />
                       <h6>DATE : 12th December 2019 - 6:00 PM</h6>
                       <h6>VENUE : Milano Città Studi - Piazza Leonardo da Vinci 32 - Building 4 - Ground: Floor - Room 4.0.1</h6>

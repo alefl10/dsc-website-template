@@ -27,14 +27,14 @@ export default () => (
           </li>
         </ul>
       </div>
-      <div className="tab-content">
+      {/* <div className="tab-content">
         <div
           className="tab-pane active"
           id="upcoming"
           role="tabpanel"
           aria-labelledby="upcoming"
         >
-          <section id="hi" className="section-spacer bg-very__gray">
+        	<section id="hi" className="section-spacer bg-very__gray">
             <div className="container">
               <div className="row align-items-center">
                 <div className="col-sm-4">
@@ -129,7 +129,7 @@ export default () => (
             </div>
           </section>
         </div>
-      </div>
+      </div> */}
     </div>
   </section>
 )

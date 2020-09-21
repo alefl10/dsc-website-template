@@ -27,8 +27,7 @@ export default ({ register }) => (
               How frequently do events and workshops occur?
             </h5>
             <p>
-              We hold workshops and showcases at PoliMi & we would
-              recommend you to join our community by becoming a{' '}
+              We intend to host online events and workshops at least once a month. Become a {' '}
               <a href={register} target="_blank" rel="noopener noreferrer">
                 member
               </a>{' '}
@@ -41,13 +40,12 @@ export default ({ register }) => (
         <Col sm={6}>
           <Card body>
             <h5 className="card-title">
-              What should I carry when attending a workshop?
+              Will events be hosted in presence this year?
             </h5>
             <p>
-              We recommend you carry with you a notebook, pen and a laptop
-              because more often than not we make our hands dirty with code.
-              Most importantly, carry along a healthy dose of curiosity and
-              enthusiasm.
+              Due to the COVID-19 pandemic, we will NOT host any events in person until further notice.\n
+							However, Google Developers has provided us with exceptional tools and guidelines to successfully carry out
+							all events online.
             </p>
           </Card>
         </Col>

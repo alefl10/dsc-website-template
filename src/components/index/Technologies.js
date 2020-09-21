@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container'
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 
+import flutter from '../../images/technologies/flutter.jpeg'
 import android from '../../images/technologies/android.png'
 import web from '../../images/technologies/web.png'
 import cloud from '../../images/technologies/cloud.png'
@@ -141,7 +142,56 @@ export default () => (
           <Col sm={5} className="mr-auto">
             <div className="feature-list-wrapper">
               <div className="content-header">
-                <h2 className="content-title">Machine Intelligence</h2>
+                <h2 className="content-title">Flutter</h2>
+                <p>
+								Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+								Paint your app to life in milliseconds with Stateful Hot Reload and quickly ship features with a focus on native end-user experiences.
+                </p>
+              </div>
+              <a
+                href="https://codelabs.developers.google.com/?cat=Flutter"
+                className="hero-button"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Codelabs &nbsp; &nbsp;
+                <i className="fas fa-external-link-alt"></i>
+              </a>
+            </div>
+          </Col>
+          <Col sm={6}>
+            <div className="feature-list-image">
+              <img
+                src={flutter}
+                className="img-fluid"
+                alt="Robotic illustration of how many different things it can do"
+                height="60%"
+                width="90%"
+              />
+            </div>
+          </Col>
+        </Row>
+      </Container>
+    </section>
+
+    <section className="section-spacer bg-very__gray">
+      <Container>
+        <Row className="flex-column-reverse flex-sm-row align-items-cengit ter">
+          <Col sm={6}>
+            <div className="feature-list-image">
+              <img
+                src={mi}
+                className="img-fluid"
+                alt="Robotic illustration of how many different things it can do"
+                height="60%"
+                width="90%"
+              />
+            </div>
+          </Col>
+					<Col sm={5} className="mr-auto">
+            <div className="feature-list-wrapper">
+              <div className="content-header">
+                <h2 className="content-title">Machine Learning &amp; AI</h2>
                 <p>
                   Learn how to drive user engagement and retention with
                   intelligent apps that are able to effectively serve users what
@@ -159,17 +209,6 @@ export default () => (
                 Codelabs &nbsp; &nbsp;
                 <i className="fas fa-external-link-alt"></i>
               </a>
-            </div>
-          </Col>
-          <Col sm={6}>
-            <div className="feature-list-image">
-              <img
-                src={mi}
-                className="img-fluid"
-                alt="Robotic illustration of how many different things it can do"
-                height="60%"
-                width="90%"
-              />
             </div>
           </Col>
         </Row>

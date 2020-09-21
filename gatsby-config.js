@@ -5,13 +5,13 @@ module.exports = {
     description: `Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
     university: `Politecnico di Milano`,
     lang: `en`,
-    register: `https://t.me/joinchat/Dgxqo0qQDdKh433Egf0ESQ`,
+    register: `https://t.me/joinchat/LB90ZUqQDdKm76X5WGMGPw`,
     mail: `dsc.polimi@gmail.com`,
     social: {
       youtube: `https://youtube.com`,
       github: `https://github.com`,
       twitter: `https://twitter.com`,
-      telegram: `https://t.me/joinchat/Dgxqo0qQDdKh433Egf0ESQ`,
+      telegram: `https://t.me/joinchat/LB90ZUqQDdKm76X5WGMGPw`,
       email: `mailto:dsc.polimi@gmail.com`,
     }
   },

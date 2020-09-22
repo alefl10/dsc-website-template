@@ -13,7 +13,7 @@ export default ({ register }) => (
       <Row className="row">
         <Col sm={6}>
           <Card body>
-            <h5 className="card-title">Who can become a member?</h5>
+            <h5 className="card-title">Who can I become a member?</h5>
             <p>
               The clubs is open to any student, ranging from novice developers
               who are just starting, to advanced developers who want to further

@@ -43,7 +43,7 @@ export default ({ register }) => (
               Will events be hosted in presence this year?
             </h5>
             <p>
-              Due to the COVID-19 pandemic, we will NOT host any events in person until further notice.\n
+              Due to the COVID-19 pandemic, we will NOT host any events in person until further notice.
 							However, Google Developers has provided us with exceptional tools and guidelines to successfully carry out
 							all events online.
             </p>

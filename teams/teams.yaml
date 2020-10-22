@@ -31,3 +31,14 @@
   social:
     github: https://github.com/lucaguarro
     linkedin: https://www.linkedin.com/in/lucaguarro/
+
+- name: Mario Merlo
+  rule: Mentor
+  img: ./mariomerlo.jpeg
+  descs:
+    - Social Media Manager
+    - BSc Software Engineering
+    - Core Team Member
+  social:
+    github: https://github.com/lucaguarro
+    linkedin: https://www.linkedin.com/in/lucaguarro/

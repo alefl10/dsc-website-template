@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/dsc-website-template",
+  pathPrefix: `/dsc-website-template`,
   siteMetadata: {
     title: `Developer Student Club`,
     description: `Developer Student Clubs(DSC) is a Google Developers program for university students to acquire technical skills and solve problems`,
